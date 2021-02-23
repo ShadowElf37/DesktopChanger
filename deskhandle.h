@@ -1,4 +1,4 @@
-// STOLEN CODE :)
+// REUSED CODE :)
 // https://stackoverflow.com/questions/1683791/drawing-on-the-desktop-background-as-wallpaper-replacement-windows-c
 
 #include <windows.h>
