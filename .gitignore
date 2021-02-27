@@ -1,0 +1,4 @@
+# Files you do not need to upload
+# You can add them as a release instead.
+*.exe
+*.dll
